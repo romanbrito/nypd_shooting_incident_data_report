@@ -2,7 +2,7 @@
 R Markdown NYPD Shooting Incident Data Report
 
 
-## Instructions
+## Description
 - Complete all steps in the data science process
     - [x] Import Data
     - [x] Tidy
@@ -11,3 +11,7 @@ R Markdown NYPD Shooting Incident Data Report
 - [x] In a reproducible manner
 - [x] Produce a Report
 - [x] Include your own analysis
+
+## Instructions
+- `git clone https://github.com/romanbrito/nypd_shooting_incident_data_report`
+- Kint the `report.Rmd`
