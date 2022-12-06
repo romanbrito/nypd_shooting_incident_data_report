@@ -15,3 +15,6 @@ R Markdown NYPD Shooting Incident Data Report
 ## Instructions
 - `git clone https://github.com/romanbrito/nypd_shooting_incident_data_report`
 - Kint the `report.Rmd`
+
+### Note
+I provide a knitted report, please see `report.html`
